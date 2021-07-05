@@ -1,2 +1,0 @@
-cluster1-worker1/WLAN incoming traffic -> 7629703
-cluster1-worker1/WLAN incoming traffic -> 1227531

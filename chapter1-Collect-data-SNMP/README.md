@@ -43,3 +43,10 @@ $ crontab -e
 $ crontab -l
 */1 * * * * (cd /home/dcn/python-system-admin/chapter1-Collect-data-SNMP; python3 snmp.py > log.txt)
 ```
+
+### Install Jinja2, flask and run the web app
+```
+$ pip3 install Jinja2
+$ pip3 install flask
+$ python3 flask-web.py
+```
